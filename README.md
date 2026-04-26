@@ -131,4 +131,4 @@ This project runs entirely on **AWS Free Tier** — $0/month for the first 12 mo
 
 **Mitesh Baikar**  
 Cloud & DevOps Enthusiast  
-[LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/mitesh-baikar-3004a22a0/) | [GitHub](https://github.com/Mitesh307)
